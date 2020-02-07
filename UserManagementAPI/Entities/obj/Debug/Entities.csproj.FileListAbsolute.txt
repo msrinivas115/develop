@@ -1,0 +1,12 @@
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Entities\bin\Debug\Entities.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Entities\bin\Debug\Entities.pdb
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Entities\obj\Debug\Entities.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Entities\obj\Debug\Entities.pdb
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Entities\bin\Debug\Dapper.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Entities\bin\Debug\Dapper.FluentMap.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Entities\bin\Debug\Dapper.xml
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Entities\bin\Debug\Dapper.FluentMap.xml
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Entities\bin\Debug\Newtonsoft.Json.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Entities\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,10 @@
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Interfaces\obj\Debug\Interfaces.pdb
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Interfaces\bin\Debug\Newtonsoft.Json.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Interfaces\bin\Debug\Newtonsoft.Json.xml
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Interfaces\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Interfaces\bin\Debug\Entities.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Interfaces\bin\Debug\Entities.pdb

@@ -1,0 +1,16 @@
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Access\bin\Debug\Access.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Access\bin\Debug\Access.pdb
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Access\obj\Debug\Access.csproj.CoreCompileInputs.cache
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Access\obj\Debug\Access.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Access\obj\Debug\Access.pdb
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Access\bin\Debug\Dapper.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Access\bin\Debug\Dapper.xml
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Access\bin\Debug\Entities.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Access\bin\Debug\SimpleInjector.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Access\bin\Debug\SimpleInjector.Packaging.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Access\bin\Debug\Entities.pdb
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Access\bin\Debug\SimpleInjector.xml
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Access\bin\Debug\SimpleInjector.Packaging.xml
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Access\obj\Debug\Access.csprojResolveAssemblyReference.cache
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Access\bin\Debug\Newtonsoft.Json.dll
+C:\Users\muriksr1\Desktop\seenu115\Task\UserManagementAPI\Access\bin\Debug\Newtonsoft.Json.xml
